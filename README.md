@@ -1,10 +1,8 @@
-```markdown
-
 ![Screenshot from 2023-08-12 12-24-38](https://github.com/DevBarham/PHP_LOGIN/assets/70139300/cbddeb97-9351-4b13-b830-4372ab56b71a)
 ![Screenshot from 2023-08-12 12-24-54](https://github.com/DevBarham/PHP_LOGIN/assets/70139300/960f2f6e-df20-4588-bf18-ffcbea9af9e8)
 
 
-
+```markdown
 # PHP_LOGIN Repository Readme
 
 Welcome to the PHP_LOGIN repository! This repository contains a simple PHP-based authentication system that can be used as a foundation for building secure login and registration functionality for web applications.
